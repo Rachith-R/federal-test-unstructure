@@ -1,4 +1,4 @@
-apiVersion: V1
-kind: Namepsace
+apiVersion: v1
+kind: Namespace
 metadata:
   name: hello
